@@ -1,0 +1,9 @@
+ h3 {
+ width: 300pt;
+ height:4cm;
+ border-color:purple;
+ border-style: ridge;
+ background : rgb(255,255,0);
+ font-size:20px;
+ margin-left: 100px;
+ }
